@@ -26,9 +26,10 @@ This project automates the lookup and filling of postal codes (CEPs) for a list 
 1. Clone this repository:
 
   
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/noronhagabriel/brazilian-address-cep-automation.git
    
-   cd your-repo
+   cd brazilian-address-cep-automation
+
 
 
 2. (Optional) Create and activate a virtual environment:
